@@ -1,4 +1,4 @@
-#integer type input
+#string type input
 name=str(input("enter your name: "))
 print("welcome",name)
 
